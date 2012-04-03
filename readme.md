@@ -11,7 +11,18 @@ It wouldn't be possible without the following projects:
 *  [Mustache.js](https://github.com/janl/mustache.js)
 *  [require.js](http://requirejs.org/)
 
-## Thank you Internet.
+### Thank you Internet.
+
+## Notes
+
+Install:
+
+* npm install requirejs
+
+Command Line...Commands
+
+* `sass --watch public/sass:public/css`
+
 
 ## License
 
