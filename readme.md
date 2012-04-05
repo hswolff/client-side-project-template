@@ -21,8 +21,8 @@ Install:
 
 Command Line...Commands
 
-* `sass --watch public/sass:public/css`
-
+* For SASS only:  `sass --watch public/sass:public/css`
+* For Compass: `compass watch --sass-dir public/sass/ --css-dir public/css/`
 
 ## License
 
