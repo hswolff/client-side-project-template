@@ -17,7 +17,7 @@ It wouldn't be possible without the following projects:
 
 Install:
 
-* npm install requirejs
+* npm install requirejs -g
 
 Command Line...Commands
 
