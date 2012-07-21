@@ -1,0 +1,9 @@
+{
+  "name": "client-side-project-template",
+  "version": "1.1.0",
+  "author": "Harry Wolff <hello@hswolff.com>",
+  "description": "a template for client-side JavaScript heavy websites.",
+  "dependencies": {
+    "requirejs": "2.0.4"
+  }
+}
