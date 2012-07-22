@@ -9,11 +9,6 @@ require.config({
 	}
 });
 
-require([
-		'jquery',
-		'underscore',
-		'backbone',
-		'mustache'
-], function($, _, Backbone, Mustache) {
+require(['app'], function(app) {
 
 });
